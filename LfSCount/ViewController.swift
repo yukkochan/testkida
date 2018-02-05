@@ -59,7 +59,5 @@ class ViewController: UIViewController {
     }
 
     //あ
-    //a
-    
 }
 
